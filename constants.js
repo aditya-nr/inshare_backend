@@ -31,7 +31,8 @@ export const inshareEventEnum = {
     MESSAGE: "message",
     NOTIFICATION: "notification",
     GET_UPLOAD_URL: "get-upload-url",
-    TIMEOUT: "timeout"
+    TIMEOUT: "timeout",
+    DISCONNECT: "disconnect"
 }
 export const errorTypesEnum = {
     VALIDATION_ERROR: "VALIDATION_ERROR",
