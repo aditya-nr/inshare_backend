@@ -11,6 +11,8 @@ const {
     AWS_S3_KEY,
     AWS_S3_REGION,
     AWS_S3_BUCKET,
+    PRIVATE_KEY_PATH,
+    CERTIFICATE_PATH,
 } = process.env;
 
 export const env = {
@@ -23,6 +25,8 @@ export const env = {
     AWS_S3_KEY,
     AWS_S3_REGION,
     AWS_S3_BUCKET,
+    PRIVATE_KEY_PATH,
+    CERTIFICATE_PATH,
 }
 
 export const inshareEventEnum = {

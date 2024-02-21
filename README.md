@@ -44,6 +44,8 @@ cp .env.sample .env
 - `AWS_S3_KEY` s3 user password
 - `AWS_S3_REGION` aws s3 region
 - `AWS_S3_BUCKET` s3 bucket name
+- `PRIVATE_KEY_PATH` ssl private key path
+- `CERTIFICATE_PATH` ssl cert path
 
 5. Install dependencies:
 
